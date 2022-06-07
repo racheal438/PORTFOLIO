@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-weight: 400;
   color: #6b6b6b;
@@ -101,6 +101,7 @@ a:hover {
 
 .tm-welcome-title {
   margin-bottom: 40px;
+  font-weight: bolder;
 }
 
 .tm-welcome-left {
@@ -144,6 +145,7 @@ a:hover {
   padding: 70px 95px;
   display: flex;
   align-items: center;
+  justify-content: center;
   text-align: center;
 }
 
